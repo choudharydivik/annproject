@@ -55,5 +55,7 @@ The dataset includes the following features:
 - The Streamlit web application is deployed on **Streamlit Cloud** for public access.
 - The deployment ensures scalability and easy access to the churn prediction tool.
 
+#### You can try the application live here: https://customer-churn-prediction-ann.streamlit.app/
+
 ---
 
